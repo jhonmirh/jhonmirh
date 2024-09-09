@@ -1,6 +1,6 @@
 ##
 ##
-:floppy_disk:	**¿Quién Soy?**
+:floppy_disk:	#**¿Quién Soy?**
 
 Estas buscando Soluciones Integrales en tu Empresa. Cuenta con mi Servicio Eficaz y Eficiente.
 Profesional de la Informática. Licenciado de Profesión. Especialista CCNA Cisco - UNET, Especialista en Planificación, Magister en Innovaciones Educativas y Doctor en Humanidades.
@@ -17,12 +17,12 @@ He desarrollado Software para la Gestión Escolar, manejo de nominas estudiantil
 Y Finalizando el Certificado por Henry Full Stack, Orientado al Fron End con React y Next.js
 ##
 ##
-:floppy_disk:**¿A dónde me dirijo?**
+:floppy_disk:#**¿A dónde me dirijo?**
 
 Impactar con código escalable en la solución de necesidades sociales que se puede solventar con el Desarrollo Web. Innovando en el mundo infinito de la Programación. Y DEFENSOR Y PROPULSOR DE OPEN SOURCE – CREATIVE COMMONS
 ##
 ##
-:floppy_disk:	**¿Qué Tecnologías uso?**
+:floppy_disk:#**¿Qué Tecnologías uso?**
 
 >	JavaScript
 >>	TypeScript
@@ -34,7 +34,7 @@ Impactar con código escalable en la solución de necesidades sociales que se pu
 >>>>>>>>	ProgresSQL
 ##
 ##
-:floppy_disk:	**Mis Contactos**
+:floppy_disk:#**Mis Contactos**
 
 :mailbox: jhonmirh@gmail.com
 
@@ -42,5 +42,5 @@ Impactar con código escalable en la solución de necesidades sociales que se pu
 
 :bookmark_tabs: www.linkedin.com/in/jhon-rodríguez-245a18b7
 ##
-####
+##
 ##
