@@ -18,15 +18,15 @@ Y Finalizando el Certificado por Henry Full Stack, Orientado al Fron End con Rea
 Impactar con código escalable en la solución de necesidades sociales que se puede solventar con el Desarrollo Web. Innovando en el mundo infinito de la Programación. Y DEFENSOR Y PROPULSOR DE OPEN SOURCE – CREATIVE COMMONS
 
 :floppy_disk:	**¿Qué Tecnologías uso?**
-> [!TIP]
+
 >o	JavaScript
->o	TypeScript
->o	Express
->o	Nodejs
->o	ReactJs
->o	Next.js
->o	MongoSQL
->o	ProgresSQL
+>>o	TypeScript
+>>>o	Express
+>>>>o	Nodejs
+>>>>>o	ReactJs
+>>>>>>o	Next.js
+>>>>>>>o	MongoSQ
+>>>>>>>>o	ProgresSQL
 
 :floppy_disk:	**Mis Contactos**
 
