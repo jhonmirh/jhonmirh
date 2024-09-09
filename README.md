@@ -19,14 +19,14 @@ Impactar con código escalable en la solución de necesidades sociales que se pu
 
 :floppy_disk:	**¿Qué Tecnologías uso?**
 
->o	JavaScript
->>o	TypeScript
->>>o	Express
->>>>o	Nodejs
->>>>>o	ReactJs
->>>>>>o	Next.js
->>>>>>>o	MongoSQ
->>>>>>>>o	ProgresSQL
+>	JavaScript
+>>	TypeScript
+>>>	Express
+>>>>	Nodejs
+>>>>>	ReactJs
+>>>>>>	Next.js
+>>>>>>>	MongoSQ
+>>>>>>>>	ProgresSQL
 
 :floppy_disk:	**Mis Contactos**
 
