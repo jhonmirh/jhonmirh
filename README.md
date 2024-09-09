@@ -30,9 +30,9 @@ Impactar con código escalable en la solución de necesidades sociales que se pu
 
 :floppy_disk:	**Mis Contactos**
 
-Email: jhonmirh@gmail.com
+:mailbox: jhonmirh@gmail.com
 
-Mis Repositorios GitHub: https://github.com/jhonmirh?tab=repositories 
+:package: https://github.com/jhonmirh?tab=repositories 
 
-www.linkedin.com/in/jhon-rodríguez-245a18b7
+:bookmark_tabs: www.linkedin.com/in/jhon-rodríguez-245a18b7
 
