@@ -1,4 +1,4 @@
-	**¿Quién Soy?**
+:floppy_disk:	**¿Quién Soy?**
 
 Estas buscando Soluciones Integrales en tu Empresa. Cuenta con mi Servicio Eficaz y Eficiente.
 Profesional de la Informática. Licenciado de Profesión. Especialista CCNA Cisco - UNET, Especialista en Planificación, Magister en Innovaciones Educativas y Doctor en Humanidades.
@@ -7,25 +7,29 @@ Experiencia en la Administración de Personal, construcción de lógicas para ca
 Manejo de Base de Datos Relacionales.
 Soluciones Educativas Automatizando los procesos Administrativos y Académicos.
 
-	¿Qué hago?
+:floppy_disk:	**¿Qué hago?**
+
 He desarrollado Software para la Gestión Escolar, manejo de nominas estudiantil, estadisticas, análisis de datos Académicos. Instalación de Redes de Area Local Con Estandares ISO/OSI TIA/EIA. 
 
 Y Finalizando el Certificado por Henry Full Stack, Orientado al Fron End con React y Next.js
 
-	¿A dónde me dirijo?
+:floppy_disk:**¿A dónde me dirijo?**
+
 Impactar con código escalable en la solución de necesidades sociales que se puede solventar con el Desarrollo Web. Innovando en el mundo infinito de la Programación. Y DEFENSOR Y PROPULSOR DE OPEN SOURCE – CREATIVE COMMONS
 
-	¿Qué Tecnologías uso?
-o	JavaScript
-o	TypeScript
-o	Express
-o	Nodejs
-o	ReactJs
-o	Next.js
-o	MongoSQL
-o	ProgresSQL
+:floppy_disk:	**¿Qué Tecnologías uso?**
+> [!TIP]
+>o	JavaScript
+>o	TypeScript
+>o	Express
+>o	Nodejs
+>o	ReactJs
+>o	Next.js
+>o	MongoSQL
+>o	ProgresSQL
 
-	Mis Contactos
+:floppy_disk:	**Mis Contactos**
+
 Email: jhonmirh@gmail.com
 
 Mis Repositorios GitHub: https://github.com/jhonmirh?tab=repositories 
