@@ -1,4 +1,4 @@
-	** ¿Quién Soy? **
+	**¿Quién Soy?**
 
 Estas buscando Soluciones Integrales en tu Empresa. Cuenta con mi Servicio Eficaz y Eficiente.
 Profesional de la Informática. Licenciado de Profesión. Especialista CCNA Cisco - UNET, Especialista en Planificación, Magister en Innovaciones Educativas y Doctor en Humanidades.
